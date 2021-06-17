@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2? family = Mallanna & display = swap');
+*{
+	margin:	0;
+	padding: 0;
+	box-sizing: border-box;	
+}
+
+
+body{
+	background-color: #2D5D88;
+	font-family: 'Mallanna', sans-serif;
+}
+
+main{
+	width: 90%;
+	height: 600%;
+	max-width: 1280px;
+	max-height: 720;
+	background-color: #2D5D88;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header{
+	width: 100%;
+	height: 120px;
+	background-color: #213151;
+}
+
+
+nav li {
+	display: inline;
+	background-color:  #C6C5C3;
+}
+
+nav li a {
+	width: 7%;
+	height: 35%;
+	font-family: 'Mallanna', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: #C6C5C3;
+	float: right;
+	padding: 4.5%;
+	margin-right: 6.5%;
+	text-align: center;
+}
+
+
+section{
+
+	width: 100%;
+	height: 460px;
+	background-image: url(recalibrating.jpg);
+}
+
+#primera{
+	width: 23%;
+	height: 36%;
+	background-color: rgba( 59, 85, 135, 0.4);
+	margin-top: 16%;
+	float: right;
+	clear: both;
+	border-radius: 6px;
+}
+
+.fuente{
+	font-family: 'Mallanna', sans-serif;
+	color: #aaa69d;
+	padding right: 13%;
+	padding-left: 13%;
+	padding-top: 11%;
+	padding-bottom: 9%;
+	font-size: 15px;
+}
+
+footer{
+	width: 100%;
+	height: 20px;
+	background-color: #213151;
+	font-family: 'Mallanna', sans-serif;
+	font-size: 7px;
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.gris{
+	color: #C6C5C3;
+	text-decoration: none;
+}
+
+#logo{
+	width: 13%;
+	height: 13%;
+	padding-top: 0.5%;
+	margin-left: 1%;
+	float: left;
+ }
+
+#logotipos{
+	display: inline;
+}
+
+#blackmirror{
+	width: 9%;
+	float: left;
+	padding: 0.5%;
+	padding-top: -4%;
+	margin-top: -1%;
+	margin-left: 1.5%;
+}
+
+#netflix{
+	width: 8%;
+	float: right;
+	padding: -6%;
+	margin-top: -1%;
+	margin-right: 2%;
+}
+
+
+
+#miformu{
+	width: 350px;
+	background-color: #C6C5C3;	
+	padding: 1%;
+	font-family: 'Mallanna', sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.inicio{
+	font-family: 'Mallanna', sans-serif;
+	color: #213151;
+	font-size: 26px;
+	margin-left: 6%;
+	padding-top: 2%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+
+.subtitulo{
+	font-family: 'Mallanna', sans-serif;
+	color: #213151;
+	font-size: 16px;
+	margin-left: 0.3%;
+	text-align: center;
+}
+
+.subtitulo2{
+	font-family: 'Mallanna', sans-serif;
+	color: #213151;
+	font-size: 13px;
+	margin-left: 0.3%;
+	text-align: center;
+}
+
+.cajita{
+	width: 100%;
+	background-color: #213151;
+	color: #C6C5C3;
+}
+
+.multi{
+	width: 100%;
+	height: 50px;
+}
+
+.boton{
+	width: 40%;
+	height: 50px;
+	border-radius: 7px;
+	background-color: #213151;
+	color: #c6c5c3;
+	font-size: 16px;
+	margin-left: 30%;
+}
+
+.datos{
+	color: #213151;
+	font-size: 13px;
+}
+
+
+#columna1{
+ margin-left: 20%;
+}
